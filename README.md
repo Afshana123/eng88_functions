@@ -1,5 +1,5 @@
 # Functions 
-####DRY: DON'T REPEAT YOURSELF 
+#### DRY: DON'T REPEAT YOURSELF 
 
 ### Let's create a basic function to greet user 
 ### Syntax def name()
